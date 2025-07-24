@@ -1,5 +1,4 @@
 
-# FinanceStreamlit
 
 # 💰 FinanceStreamlit
 
