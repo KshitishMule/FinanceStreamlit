@@ -18,20 +18,10 @@ A simple yet powerful Streamlit web application to **analyze and categorize pers
 - 💸 **Credit Tracking**: View total credit (payments) with a breakdown.
 - 💾 **Persistent Category Storage**: Saves user-defined categories in `categories.json`.
 
----
-
-## 📸 Screenshots
-
-> _(Add screenshots here to visually represent your app. E.g. upload `screenshots/overview.png` and reference it like below.)_
-
-![Overview](screenshots/overview.png)
-
----
 
 ## 🛠️ Installation
 
 **Clone the repository**
-   bash
    git clone https://github.com/KshitishMule/FinanceStreamlit.git
    cd FinanceStreamlit
 pip install -r requirements.txt
