@@ -47,7 +47,8 @@ FinanceStreamlit/
 
  User authentication for multi-user use
 
-📚 Dependencies
+# 📚 Dependencies
+
 Streamlit
 
 Pandas
