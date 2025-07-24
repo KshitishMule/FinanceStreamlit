@@ -26,6 +26,8 @@ A simple yet powerful Streamlit web application to **analyze and categorize pers
    cd FinanceStreamlit
 pip install -r requirements.txt
 streamlit run finance.py
+
+
 FinanceStreamlit/
 │
 ├── finance.py       
